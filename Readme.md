@@ -1,7 +1,7 @@
 # USER MANAGEMENT SYSTEM
 
 **Name: Pankaj Kalra, Batch: FS-11**
-[GITHUB]()
+[GITHUB](https://github.com/Pankaj-dev98/university-management-system-geekster)
 
 ## Frameworks and languages used
 - Source code: Java 21
@@ -14,7 +14,7 @@
 - The calls are delegated to the service layer wherein the business logic of the CRUD application exists.
 - The DAO interfaces further are instantiated with standard-JPA entity manager to save and retreive objects from the database.
 
-- Source code is available at: [GITHUB]()
+- Source code is available at: [GITHUB](https://github.com/Pankaj-dev98/university-management-system-geekster)
 
 - Database design: Project uses a local relational MySql database with all required fields and constraints.
 
