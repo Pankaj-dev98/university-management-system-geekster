@@ -1,4 +1,4 @@
-# USER MANAGEMENT SYSTEM
+# UNIVERSITY MANAGEMENT SYSTEM
 
 **Name: Pankaj Kalra, Batch: FS-11**
 [GITHUB](https://github.com/Pankaj-dev98/university-management-system-geekster)
